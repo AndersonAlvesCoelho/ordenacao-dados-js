@@ -1,0 +1,111 @@
+html,
+body {
+  background-color: #000;
+}
+p {
+  font-family: "Gugi";
+  line-height: 0.9;
+}
+
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+
+  width: 60%;
+  margin: 0 auto;
+}
+
+.code-tela {
+  background-color: #fff;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+a.menu {
+  color: #000000;
+}
+
+
+a.menu:hover {
+  color: #696969;
+  text-decoration: none;
+}
+
+ .input-borda {
+  outline: none;
+  border: none;
+
+  margin-left: -10px;
+}
+
+.form-control:focus{ 
+  border-color: inherit; 
+  -webkit-box-shadow: none; 
+  box-shadow: none; 
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.cursor {
+	position: relative;
+}
+.cursor	i {
+	position: absolute;
+	width: 2px;
+	height: 50%;
+	background-color: black;
+	left: -5px;
+	top: 10px;
+	animation-name: blink;
+	animation-duration: 800ms;
+	animation-iteration-count: infinite;
+	opacity: 1;
+}
+
+.cursor input:focus + i {
+	display: none;
+}
+
+@keyframes blink {
+	from { opacity: 1; }
+	to { opacity: 0; }
+} */
+
+/*Animação do texto de aviso*/
+.line {
+  white-space: nowrap;
+}
+
+.typing-animation {
+  animation: blinkCursor 500ms steps(40) infinite normal,
+    typing 4s steps(40) 1s normal both;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 13em;
+  }
+}
+
+@keyframes blinkCursor {
+  from {
+    border-right-color: rgba(255, 255, 255, 0.75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+} 
