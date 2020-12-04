@@ -20,7 +20,6 @@ function selectionSort() {
   let vetor = JSON.parse(localStorage.getItem("vetor"));
   let len = vetor.length;
 
-
   for (let i = 0; i < len; i++) {
     let min = i;
     for (let j = i + 1; j < len; j++) {
