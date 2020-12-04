@@ -56,7 +56,7 @@ Instala o [node](https://nodejs.org/en/)
 
 ```bash
 #sleciona uma pasta para relizar a copia do projeto (recomendo coloca no C:\WorkSpace)
-git clone https://github.com/AndersonAlvesCoelho/Rich-Text.git
+git clone https://github.com/AndersonAlvesCoelho/ordenacao-dados-js.git
 cd Rich-Text
 ```
 
