@@ -63,8 +63,7 @@ cd Rich-Text
 ##### 3º Subir as dependência & startar o projeto:
 
 ```bash
-    #para voltar ao diretório principal
-    cd ..
+    cd ordenacao-dados-js
     npm install
     # após finalizar executa
     npm start
