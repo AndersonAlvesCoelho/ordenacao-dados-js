@@ -5,6 +5,41 @@
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"></code>
 
 <div align="center">
-    <h3>Estrutura de Ordenação</h3>
-    <img  src="https://cdn.discordapp.com/attachments/384754969800212480/774011200199196683/unknown.png">
+    <h3>Estrutura de Dados</h3>
+    <img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/img-projeto.png">
 </div>
+
+
+## 💡 Sobre o projeto
+
+Este projeto tem como intuito colocar em pratica o que foi ensinado pelo [Professor Wilson Amaral](https://www.youtube.com/channel/UCmB_RNrv9sfOXIvow8IApmQ) da faculdade UDF.
+
+
+##### Metodos de ordenação:
+
+- [x] Bubble Sort   
+- [x] Selection Sort
+- [x] Insertion Sort
+
+
+## Bubble Sort ⚪
+<img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/bubbleSort.png">
+
+> Uma forma de trabalhar com o algoritmo Bubble Sorte é comparando os elementos adjacentes (dois a dois), por exemplo: compara-se a primeira posição do vetor com a segunda, na segunda iteração (repetição), compara-se a segunda posição do vetor com a terceira, e assim sucessivamente. De acordo com o algoritmo, podemos ordenar o vetor de forma crescente ou decrescente. By: [devmedia](https://www.devmedia.com.br/entendendo-o-algoritmo-bubble-sort-em-java/24812)
+
+[![Watch the video](https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/bubbleSort-video.png)](https://youtu.be/lyZQPjUT5B4)
+
+
+## Selection Sort 🟡
+<img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/selectionSort.png">
+
+> A ordenação por seleção ou selection sort consiste em selecionar o menor item e colocar na primeira posição, selecionar o segundo menor item e colocar na segunda posição, segue estes passos até que reste um único elemento. Para todos os casos (melhor, médio e pior caso) possui complexidade C(n) = O(n²) e não é um algoritmo estável. By: [treinaweb](https://www.treinaweb.com.br/blog/conheca-os-principais-algoritmos-de-ordenacao/)
+
+[![Watch the video](https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/selectionSort-video.png)](https://youtu.be/Ns4TPTC8whw)
+
+## Insertion Sort 🔵
+<img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/insertionSort.png">
+
+> O funcionamento do algoritmo é bem simples: consiste em cada passo a partir do segundo elemento selecionar o próximo item da sequência e colocá-lo no local apropriado de acordo com o critério de ordenação. By: [treinaweb](https://www.treinaweb.com.br/blog/conheca-os-principais-algoritmos-de-ordenacao/)
+
+[![Watch the video](https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/insertionSort-video.png)](https://youtu.be/ROalU379l3U)
