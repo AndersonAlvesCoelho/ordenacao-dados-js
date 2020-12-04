@@ -47,7 +47,7 @@ Este projeto tem como intuito colocar em pratica o que foi ensinado pelo [Profes
 
 <hr>
 
-## 🔖 Instituições para visualizar o projeto   
+## 🔖 instruções para visualizar o projeto   
 > As instituições citadas abaixo,  foram feita no CMD do windows 10
 ##### 1º Node:
 Instala o [node](https://nodejs.org/en/) 
