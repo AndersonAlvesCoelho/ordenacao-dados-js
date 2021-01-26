@@ -4,6 +4,8 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"></code>
 
+>**Tier:** 1-Beginner
+
 <div align="center">
     <h3>Estrutura de Dados</h3>
     <img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/ordenacao-dados-js/master/public/readme/img-projeto.png">
